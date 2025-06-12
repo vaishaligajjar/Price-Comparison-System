@@ -1,0 +1,6 @@
+serpapi
+pandas
+matplotlib
+streamlit
+google_search_results
+
