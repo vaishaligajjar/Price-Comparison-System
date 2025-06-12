@@ -17,7 +17,7 @@ page_setup = st.set_page_config(page_title="Price Comparison",page_icon="🔎",l
 #"""-------------------------------------------------------------------------
 
 c1,c2,c3,c4= st.columns([2,2,1.5,5.5])
-c1.image("download_1.png",width = 200)
+c1.image("download_1.png",width = 350)
 c4.markdown("## E-Pharmacy Price compairsion system")
 
 """ _______________________________________________________________________"""
